@@ -13,4 +13,4 @@ automated system will be controlled by an Arduino Uno R3 microcontroller.
 
 
 ## Tinkercad Diagram
-![Tinkercad](https://www.tinkercad.com/things/6y1Dqi0Ej4s-copy-of-cse360projectplant-watering-system/editel?returnTo=%2Fthings%2F6y1Dqi0Ej4s-copy-of-cse360projectplant-watering-system&sharecode=WjTpDR0t9NABc8VRIjOwo-iBrnUwc8eK2Aa46AoLg7E)
+-[Tinkercad](https://www.tinkercad.com/things/6y1Dqi0Ej4s-copy-of-cse360projectplant-watering-system/editel?returnTo=%2Fthings%2F6y1Dqi0Ej4s-copy-of-cse360projectplant-watering-system&sharecode=WjTpDR0t9NABc8VRIjOwo-iBrnUwc8eK2Aa46AoLg7E)
